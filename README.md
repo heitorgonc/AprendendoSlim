@@ -24,7 +24,7 @@
 <h4 align="center">Clone este repositório</h4>
 <p align="center">git clone https://github.com/heitorgonc/Shopping</p>
 <h4 align="center">Entre na pasta criada</h4>
-<h4 align="center">Adicione o <a href="https://www.slimframework.com/docs/v4/start/installation.html">slim</a></h4>
+<h4 align="center">Adicione o <a href="https://www.slimframework.com/docs/v4/start/installation.html#step-2-install-slim">slim</a></h4>
 <p align="center">composer require slim/slim:"4.*"</p>
 <h4 align="center">Escolha alguma implementação <a href="https://www.slimframework.com/docs/v4/start/installation.html#step-3-install-a-psr-7-implementation-and-serverrequest-creator">PSR-7</a></h4>
 <p align="center">composer require slim/psr7</p>

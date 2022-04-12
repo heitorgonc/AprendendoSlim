@@ -1,6 +1,6 @@
-<h1 align="center">Learning Slim Framework</h1>
+<h1 align="center">Aprendendo Slim Framework</h1>
 
-<p align="center">Learning project PHP</p>
+<p align="center">Projeto de aprendizado PHP</p>
 
 <p align="center">
  <a href="#preRequisitos">Pré Requisitos</a> •
@@ -9,7 +9,7 @@
 
 <h3 align="center"> Em desenvolvimento</h3>
 
-<h3>Features</h3>
+<h3>Recursos</h3>
 
 - [X] Criando um retorno de tela
 
